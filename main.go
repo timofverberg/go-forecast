@@ -1,9 +1,3 @@
-/*
-
-Ändra namn till weather? Så det matchar exemplet ovan
-
-*/
-
 package main
 
 import (
